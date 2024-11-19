@@ -5,8 +5,8 @@ public class BloodBankEntry
     public int Age { get; set; }
     public string BloodType { get; set; }
     public string ContactInfo { get; set; }
-    public int Quantity { get; set; } // in ml
+    public int Quantity { get; set; } 
     public DateTime CollectionDate { get; set; }
     public DateTime ExpirationDate { get; set; }
-    public string Status { get; set; } // Available, Requested, Expired
+    public string Status { get; set; } 
 }

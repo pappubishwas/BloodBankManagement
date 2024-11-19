@@ -69,7 +69,7 @@ public class BloodBankController : ControllerBase
         return NoContent();
     }
 
-    // GET: Search by blood type
+    // GET: Search by bloodType or status or donorName
     [HttpGet("search")]
     public IActionResult Search([FromQuery] string? bloodType, [FromQuery] string? status, [FromQuery] string? donorName)
     {
