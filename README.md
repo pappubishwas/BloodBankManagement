@@ -36,7 +36,7 @@ This project is a RESTful API for managing a blood bank system, built with C# an
   "status": "Available"
 }
 
-Screenshots
+##Screenshots
 A folder named screenshots is attached to this repository.
 It contains:
 Swagger UI examples for various endpoints and their responses.
