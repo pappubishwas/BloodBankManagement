@@ -35,3 +35,9 @@ This project is a RESTful API for managing a blood bank system, built with C# an
   "expirationDate": "2025-01-18T00:00:00",
   "status": "Available"
 }
+
+Screenshots
+A folder named screenshots is attached to this repository.
+It contains:
+Swagger UI examples for various endpoints and their responses.
+Postman request and response samples for different scenarios, including successful and unsuccessful cases.
